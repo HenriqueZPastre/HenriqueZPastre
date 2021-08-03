@@ -1,4 +1,11 @@
 ### Hello World!
+✔ Studing
+   - 📘 Html;
+   - 📘 Css; 
+   - 📘 Javascript;
+   - 📘 Php;
+   - 📘 Cypress;
+
 
 <div>
   <a href="https://github.com/HenriqueZPastre">
