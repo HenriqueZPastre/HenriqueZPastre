@@ -3,7 +3,9 @@
    - 📘 Html;
    - 📘 Css; 
    - 📘 Javascript;
-   - 📘 Php;
+   - 📘 Vue.js
+   - 📘 Node.js
+   - 📘 Ruby;
    - 📘 Cypress;
 
 
