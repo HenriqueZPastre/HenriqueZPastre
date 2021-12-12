@@ -1,12 +1,12 @@
 ### Hello World!
 ✔ Studing
-   - 📘 Html;
-   - 📘 Css; 
-   - 📘 Javascript;
-   - 📘 Vue.js
-   - 📘 Node.js
-   - 📘 Ruby;
-   - 📘 Cypress;
+   - 📘 Web-dev
+      - 📘 Vue.js
+      - 📘 Node.js
+
+   - 📘 QA Automation
+      - 📘 Ruby;
+      - 📘 Cypress;
 
 
 <div>
